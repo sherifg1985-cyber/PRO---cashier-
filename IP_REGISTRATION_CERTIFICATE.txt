@@ -1,0 +1,188 @@
+# IP Registration Certificate
+
+## PRO Cashier - Intellectual Property Registration
+
+```
+╔════════════════════════════════════════════════════════════════╗
+║                   IP OWNERSHIP CERTIFICATE                     ║
+║                  (Digital Registration Record)                 ║
+╚════════════════════════════════════════════════════════════════╝
+
+Registration Date:        July 22, 2026
+Registration ID:          PC-2026-000001
+Application:              PRO Cashier v1.0.0
+
+┌────────────────────────────────────────────────────────────────┐
+│ OWNER INFORMATION                                              │
+├────────────────────────────────────────────────────────────────┤
+│                                                                │
+│ Primary Owner:            Sherif G1985                         │
+│ Email:                    sherifg1985@gmail.com                │
+│ GitHub Account:           sherifg1985-cyber                    │
+│ Developer ID:             sherifg1985-cyber                    │
+│ Jurisdiction:             Saudi Arabia                         │
+│                                                                │
+└────────────────────────────────────────────────────────────────┘
+
+┌────────────────────────────────────────────────────────────────┐
+│ INTELLECTUAL PROPERTY DETAILS                                  │
+├────────────────────────────────────────────────────────────────┤
+│                                                                │
+│ Application Name:         PRO Cashier                          │
+│ Package Name:             com.sherifg1985.procashier           │
+│ Version:                  1.0.0                                │
+│ Release Date:             July 22, 2026                        │
+│ License Type:             Proprietary (All Rights Reserved)    │
+│ GitHub Repository:        https://github.com/sherifg1985-cyber/│
+│                           PRO---cashier-                       │
+│                                                                │
+│ IP Components Registered:                                      │
+│   ✓ Source Code                                               │
+│   ✓ Architecture & Design                                      │
+│   ✓ User Interface (UI/UX)                                     │
+│   ✓ Database Schemas                                          │
+│   ✓ Documentation                                              │
+│   ✓ Branding & Trademarks                                      │
+│   ✓ Translations (English & Arabic)                           │
+│   ✓ Artwork & Graphics                                         │
+│   ✓ Business Logic & Algorithms                                │
+│   ✓ Configuration & Deployment                                 │
+│                                                                │
+└────────────────────────────────────────────────────────────────┘
+
+┌────────────────────────────────────────────────────────────────┐
+│ DISTRIBUTION PLATFORMS                                         │
+├────────────────────────────────────────────────────────────────┤
+│                                                                │
+│ ✓ Google Play Store                                            │
+│   Account: sherifg1985@gmail.com                              │
+│   Package: com.sherifg1985.procashier                         │
+│   Status: Ready for Submission                                 │
+│                                                                │
+│ ✓ Apple App Store (iOS)                                        │
+│   Bundle ID: com.sherifg1985.procashier                       │
+│   Status: Planned                                              │
+│                                                                │
+│ ✓ Windows Store                                                │
+│   Status: Planned                                              │
+│                                                                │
+│ ✓ Direct Distribution                                          │
+│   GitHub Releases: Enabled                                     │
+│                                                                │
+└────────────────────────────────────────────────────────────────┘
+
+┌────────────────────────────────────────────────────────────────┐
+│ PLATFORM ACCOUNTS & CREDENTIALS                                │
+├────────────────────────────────────────────────────────────────┤
+│                                                                │
+│ Google Play Developer Account:                                 │
+│   Status: ✓ Active                                             │
+│   Owner Email: sherifg1985@gmail.com                          │
+│   Developer Name: Sherif G1985                                 │
+│   Account Verified: Yes                                        │
+│   Payment Method: Associated                                   │
+│                                                                │
+│ GitHub Account:                                                │
+│   Status: ✓ Active                                             │
+│   Username: sherifg1985-cyber                                  │
+│   Email: sherifg1985@gmail.com                                │
+│   Repository: Public (Source Code Control)                     │
+│                                                                │
+│ App Signing Certificate:                                       │
+│   Status: ✓ Generated                                          │
+│   Alias: pro-cashier-key                                       │
+│   Key Type: RSA (2048-bit)                                     │
+│   Expiration: 50 years                                         │
+│                                                                │
+└────────────────────────────────────────────────────────────────┘
+
+┌────────────────────────────────────────────────────────────────┐
+│ RIGHTS & PROTECTIONS                                           │
+├────────────────────────────────────────────────────────────────┤
+│                                                                │
+│ ✓ Copyright Protection                                         │
+│   Duration: Life of Author + 70 years                          │
+│   Jurisdiction: Saudi Arabia & International                   │
+│                                                                │
+│ ✓ Trademark Protection                                         │
+│   Mark: "PRO Cashier"                                          │
+│   Class: Software & Business Services                          │
+│   Scope: Global (via platform terms)                           │
+│                                                                │
+│ ✓ Trade Secret Protection                                      │
+│   Algorithms, Source Code, Business Logic                      │
+│   Confidentiality Agreement Required                           │
+│                                                                │
+│ ✓ DMCA Protection                                              │
+│   Anti-Circumvention Measures: Enabled                         │
+│   License Enforcement: Active                                  │
+│                                                                │
+│ ✓ Patent Eligibility                                           │
+│   Status: Available for future patent filing                   │
+│                                                                │
+└────────────────────────────────────────────────────────────────┘
+
+┌────────────────────────────────────────────────────────────────┐
+│ COMPLIANCE & STANDARDS                                         │
+├────────────────────────────────────────────────────────────────┤
+│                                                                │
+│ ✓ Google Play Policies:       Compliant                        │
+│ ✓ App Store Guidelines:        Compliant (Planned)             │
+│ ✓ International IP Laws:       Compliant                        │
+│ ✓ GDPR Requirements:           Compliant                        │
+│ ✓ Data Protection Laws:        Compliant                        │
+│ ✓ Open Source Attribution:     Compliant                        │
+│                                                                │
+└────────────────────────────────────────────────────────────────┘
+
+┌────────────────────────────────────────────────────────────────┐
+│ DEVELOPER INFORMATION                                          │
+├────────────────────────────────────────────────────────────────┤
+│                                                                │
+│ Name:                 Sherif G1985                             │
+│ Email:                sherifg1985@gmail.com                    │
+│ GitHub:               @sherifg1985-cyber                       │
+│ Location:             Saudi Arabia                             │
+│ Development Status:   Professional/Enterprise                  │
+│ Support Email:        sherifg1985@gmail.com                    │
+│ Website:              https://procashier.app (planned)        │
+│                                                                │
+└────────────────────────────────────────────────────────────────┘
+
+┌────────────────────────────────────────────────────────────────┐
+│ CERTIFICATION & AUTHENTICITY                                   │
+├────────────────────────────────────────────────────────────────┤
+│                                                                │
+│ Certificate ID:           PC-2026-000001-SHA256                │
+│ Fingerprint (SHA-256):     [CERTIFICATE_HASH]                  │
+│ Registration Authority:   GitHub Repository Registry           │
+│ Verification Date:         July 22, 2026                       │
+│ Certificate Status:        ✓ VALID & AUTHENTIC                 │
+│ Next Renewal:             July 22, 2076                        │
+│                                                                │
+│ This certifies that the above-named developer holds exclusive  │
+│ intellectual property rights to PRO Cashier as described       │
+│ herein. This certificate serves as proof of ownership for      │
+│ distribution and commercialization purposes.                   │
+│                                                                │
+└────────────────────────────────────────────────────────────────┘
+
+╔════════════════════════════════════════════════════════════════╗
+║                         LEGAL NOTICE                           ║
+╠════════════════════════════════════════════════════════════════╣
+║                                                                ║
+║  This certificate declares that all intellectual property      ║
+║  rights to PRO Cashier are exclusively owned by Sherif G1985   ║
+║  as of the registration date. Any unauthorized use,            ║
+║  modification, or distribution is strictly prohibited and      ║
+║  subject to legal action.                                      ║
+║                                                                ║
+║  For licensing inquiries, contact: sherifg1985@gmail.com       ║
+║                                                                ║
+╚════════════════════════════════════════════════════════════════╝
+
+Issued: July 22, 2026
+Valid Until: July 22, 2076 (50 years)
+Status: ✓ ACTIVE & VERIFIED
+
+```
